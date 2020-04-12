@@ -2,23 +2,25 @@ package Percabangan;
 
 public class Switch {
     public static void main(String[] args) {
-        int jalanjalan=3;
-        switch(jalanjalan){
-            case 1:
-                System.out.println("urang lapas");
-                break  ;
-            case 2;
-                System.out.println("urang acayan");
-                break;
-                case 3;
-                System.out.println("urang nyamuk");
-                break;
-                case 4;
-                    System.out.println("dubil dit");
+        char nilai='D';
+        switch (nilai){
+            case 'A':
+                System.out.println("Mhs :\"terimakasih pak\"");
+                System.out.println("dosen :\"selamatya\"");
+            break;
+            case 'B':
+                System.out.println("Mhs :\"kenapa ulun kada dapat a pa\"");
+                System.out.println("dosen : \" asdasd\"");
+
+            break;
+                default:
+                    System.out.println("mhs :\"uln trn pul pa ai , tugas pul jua");
+                    System.out.println("dosen : \" bujurjuakah\"" );
+                    System.out.println("dosen : \" *memeriksaberkas\"");
+                    System.out.println("dosen : \" *mencelengi\"");
+                    System.out.println("mhs : \" kabur....\"");
                     break;
-                    case 5;
-                        System.out.println("makhluk halus");
-                        break;
+
         }
     }
 }
