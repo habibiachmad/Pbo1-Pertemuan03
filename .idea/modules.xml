@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Out/Out.iml" filepath="$PROJECT_DIR$/Out/Out.iml" />
       <module fileurl="file://$PROJECT_DIR$/pbo1-pertemuan03.iml" filepath="$PROJECT_DIR$/pbo1-pertemuan03.iml" />
     </modules>
   </component>
